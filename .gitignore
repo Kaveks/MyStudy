@@ -1,0 +1,16 @@
+# django
+
+*.pyc
+*.pot
+*.log
+__pycache__
+
+# static file
+media/
+staticfiles/
+
+#environments
+
+.env
+.venv
+venv/
